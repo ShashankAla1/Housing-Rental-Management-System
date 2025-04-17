@@ -42,7 +42,10 @@ A full-stack web application designed to streamline property rentals, built usin
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/housing-rental-management.git
-   cd housing-rental-management
+   git clone https://github.com/ro7hith/housing-rental-management-system.git
+   cd housing-rental-management-system
+
+cd server && npm install
+cd ../client && npm install
 
 
