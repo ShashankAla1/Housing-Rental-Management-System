@@ -30,5 +30,19 @@ A full-stack web application designed to streamline property rentals, built usin
 - Cloudinary (optional) for image uploads  
 - MongoDB Atlas (for production DB)
 
+## Setup
+## 🔧 Getting Started
+
+### Prerequisites
+- Node.js and npm
+- MongoDB (local or Atlas)
+- Git
+
+### Installation
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/your-username/housing-rental-management.git
+   cd housing-rental-management
 
 
